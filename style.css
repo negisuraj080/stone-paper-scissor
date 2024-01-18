@@ -96,3 +96,19 @@ img {
     border-radius: 1rem;
 }
 }
+
+@media screen and (max-width: 469px) {
+  *{
+    padding: 0;
+    margin: 0;
+  }
+
+
+  .choices {
+    flex-wrap: wrap;
+  }
+
+  #msg{
+    font-size: 1.8rem;
+  }
+}
