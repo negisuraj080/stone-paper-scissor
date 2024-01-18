@@ -90,9 +90,9 @@ img {
   }
 
   #msg {
-    background-color: #081b31;
+   background-color: #081b31;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
     border-radius: 1rem;
 }
 }
